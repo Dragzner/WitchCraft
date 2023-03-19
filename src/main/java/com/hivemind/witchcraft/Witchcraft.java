@@ -1,5 +1,7 @@
 package com.hivemind.witchcraft;
 
+import com.hivemind.witchcraft.datagen.DataGenerators;
+import com.hivemind.witchcraft.item.ModItems;
 import com.mojang.logging.LogUtils;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -22,9 +24,12 @@ public class Witchcraft
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
+        ModItems.register(modEventBus);
+
         modEventBus.addListener(this::commonSetup);
 
         MinecraftForge.EVENT_BUS.register(this);
+        modEventBus.addListener(DataGenerators::gatherData);
     }
 
     private void commonSetup(final FMLCommonSetupEvent event)
