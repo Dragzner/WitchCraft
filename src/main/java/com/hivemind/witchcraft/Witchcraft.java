@@ -2,7 +2,9 @@ package com.hivemind.witchcraft;
 
 import com.hivemind.witchcraft.datagen.DataGenerators;
 import com.hivemind.witchcraft.item.ModItems;
+import com.hivemind.witchcraft.item.WitchCraftCreativeModeTab;
 import com.mojang.logging.LogUtils;
+import net.minecraft.world.item.CreativeModeTab;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -19,6 +21,7 @@ import org.slf4j.Logger;
 public class Witchcraft
 {
     public static final String MOD_ID = "witchcraft";
+    public static final CreativeModeTab WITCHCRAFT_TAB = WitchCraftCreativeModeTab.WITCHCRAFT_TAB;
     private static final Logger LOGGER = LogUtils.getLogger();
     public Witchcraft()
     {
