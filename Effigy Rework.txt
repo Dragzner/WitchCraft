@@ -1,0 +1,301 @@
+﻿Effigy
+
+
+Stats
+Strength
+	0
+	Perception
+	0
+	Endurance
+	0
+	Charisma
+	2
+	Intelligence
+	1
+	Agility
+	0
+	Luck
+	0
+	
+
+Character Info
+Level
+	13
+	HP
+	15 { 15 }
+	EXP
+	338
+	Overshield
+	41 { 37 }
+
+
+	Alignment
+	CN
+	AC
+	10
+	Race
+	Spirit
+	Will Save
+	+0
+	Size
+	Medium
+	Fortitude Save
+	+0
+	Gold
+	0
+	Reflex Save
+	+0
+	Favor
+	1463
+	Soul
+	100
+	
+
+	
+
+	Sanity
+	100/100
+	
+
+Skills/Knowledge/Languages
+* Knowledges: 
+   * N/A
+* Proficiencies:
+   * Battle Scissors
+   * Scythe
+* Specialties:
+   * N/A
+* Languages: 
+   * Common
+   * Sylvan
+Abilities
+* Racials:
+   * Tethered: Spirits are tethered to an object in the ethereal realm and therefore cannot venture more than 100 ft from that object. 
+   * Grounding Substances: Hitting the ghost with rock salt or cast iron will instead deal 1d4 TD and banish them for the next turn, and spirits cannot cross salt or iron on the ground
+   * Spirit: Spirits are beings native to the ethereal realm either related to nature or pagan gods, and are similar to ghosts in that they still have a tie to the material plane, but are different in that they can be physical. Their soul is tied to an object, and the object must be salted and burned to permanently kill the spirit. Depleting a spirit's health will banish them to the ethereal realm for 12 hours.
+   * Darkvision: Can see perfectly fine in complete darkness.
+* Religion: 
+* Effigy: 
+   * The Haunt: (Swift/melee) Creates an emanating aura in the surrounding vicinity (up to 100 ft). Enemies must surpass a [DC: 15+Cha] will-save at the beginning of their turn or go up a level of fear. Enemies get a -1 on all rolls. Conditions must be met to activate this:
+      * Must be in combat
+      * Area must be considered low light
+      * Can’t  have been seen this combat
+      * Can’t be on sacred ground
+   * Illusionary Space: (Standard) When effigy casts the haunt, everyone who would be affected by the haunt in its area must make a DC 20 Will Save or their souls are transported to the ethereal realm. You may warp the environment in the ethereal realm while Illusionary space is active. All abilities work as if they were cast in the real world. All those trapped must succeed at a DC 20 Will Save to leave the ethereal realm. If they fail to leave, they take another fear level.
+   * Blood Sacrifice: (Standard/melee) Breaks stealth, Kills the target if these conditions are met:
+      * Target cannot be innocent
+      * The Haunt must be active
+      * Target must be horrified
+      * Must be considered a sneak attack
+      * Effigy cannot be Ethereal
+      * Must not know Scott’s Character
+   * Ethereal Form: (Swift/N/A)Effigy is ethereal normally, but can manifest within combat if it is touching the ground. Effigy can only become ethereal again if nothing can sense it and it takes a swift action to become ethereal again. Effigy can cast the following spells while ethereal:
+      * Spook
+   * Idol of Terror: (Stardard/melee) Creates a clone of Effigy capable of only certain actions specified on creation. The clone is dormant until triggered by an enemy coming within 3 squares of it. It can perform the same amount of actions effigy can within a round, it disappears on completion of all tasks. The clone can mimic damaging actions, but will disappear just before it would deal damage, if the attack were to succeed, increasing the target's fear level by 3. The clone has the same amount of health as Effigy, but disappears if it would be rendered unconscious. 
+Crafting Materials: Cloth, Straw, Sticks, Crop, blood
+The following spells can be cast by the clone:
+      * Spook
+   * Spook: (Standard/10 ft) DC against roll + Cha. Adds a level of fear.
+   * Recall: (Full Round) Recall from the child to the bonfire, and vice versa.
+   * Evolving Terror: (Passive) After Effigy has defeated an enemy, it is added to the list of fears. Enemies afraid of anything on the list gain a -3 on any of Effigy’s fear based spells/effects. Current Fears:
+      * Tyranid
+      * Nightmare
+      * Werewolf
+      * Space Marine
+      * Zombie
+      * Poltergeist
+      * Succubus
+      * Vampiric Ghoul
+   * Obstruction from Innocence: (Passive) Innocent Souls cannot see effigy, unless they want to. DC is opposed to Effigy’s Stealth.
+   * Access Innocence: (Swift) Peer into a target individual's mind to determine their innocence. Unknowing, non-psychic, targets that don’t have a mental barrier of some form cannot resist this, and their innocence is known. If the target is psychic, or knows what is happening, or has mental barriers, they can choose to roll to resist this with a DC 20 Will Save.
+   * Ethereal Coating: (Passive) Effigy is invisible until the end of it’s next turn whenever it leaves the ethereal realm. This effect expires if Effigy attacks, or casts a spell.
+   * Servants of Nevermora: (Passive) When effigy casts bloody sacrifice on someone, they become a servant of her majesty, otherwise known as a “Crow.” Appears to people as a plague doctor-like shady figure. 
+   * Scarier Idols: (Passive) Idol of Terror increases the target fear level by 3 instead of 1.
+   * Heliophobia & Nictophilia: (Passive) One or more gods has taken a disliking to Effigy, causing sunlight or anything equivalent to it to harm Effigy while it’s in the material realm.
+Light stuff: 
+      * Effigy is harmed by the sun, and strong direct light will deal 1d20 TD per turn, in addition to taking a -5 on all rolls and a -4 penalty to strength, agility, endurance, and perception.
+Night Stuff: 
+      * Double movement speed in darkness. 
+      * While in the haunt and darkness. You may teleport behind a standing object or become immediately ethereal when entering stealth.
+   * Light Resistance: (Passive) Indirect Sunlight no longer negatively affects effigy.
+   * Writhing Demise: (Channeled) Effigy launches quick and unerring tentacles toward a target grappling and dragging them towards Effigy’s waiting maw. If they enter Effigy’s maw they receive 4 levels of fear per turn and blood sacrifice is automatically cast if they would qualify at any point in time. The target is dragged 5 squares per turn and can make a grapple check every time they would be dragged or they can take 4 fears levels to escape. The target must be of a medium or smaller size. The DC is opposed to your grapple roll. The range is 50 ft. Effigy must see the target though there need not be a straight line between it and it’s target. Effigy is considered channeling while this is active and can be canceled at any time. Any target who can see the effects of writhing demise must roll a DC 15+Cha will save or gain a fear level.            
+
+
+Spells
+* Arcane:
+   * Prestidigitation: Do an assortment of small arcane tricks (Standard/melee range)
+* Dark: 
+   * Darkness: Creates a 25 ft radius bubble of darkness (4/day) (Standard/melee Range).
+Grimoire
+* Upon permanent death, Effigy will enter the grimoire instead of dying. Effigy can then permanently possess the reader unless they succeed in a DC 30 Will Save, permanently taking over their body.
+* Grimoires require two hands to read and cast
+* The reader of the grimoire can speak to Effigy by writing on a blank page, and effigy  can respond by having text appear. 
+* Effigy at any time can roll a DC vs Will save roll to take the turn of the current reader of the Grimoire controlling them for a time. The reader will lose all memories of affected time. 
+* Everytime the grimoire is read the user must roll a D100 and if the roll is 10 or less they have to roll a DC 25 Will save or take 5 Sanity damage and gain a stack of permanent eldritch taint.
+* Ethereal form: Passive: Even while in the physical realm, the user of the grimoire is always partially ethereal and takes and deals half physical damage. 
+* The casting of any major spell of any origin which usually requires expensive crafting components can now be replaced by a blood sacrifice channeled through the grimoire. 
+* The reader of the Grimoire can cast the following spells even if they don’t have them with no limits on times per day:
+   * The Haunt: (See above)
+   * Blood Sacrifice: (See above)
+   * Illusionary Space: (See above)
+   * Idol of Terror: (See Above)
+   * Spook: (See Above) 
+   * Access Innocence: (See Above)
+   * Servants of Nevermora: (See Above)
+   * Darkvision: (See Above)
+   * Summon Crows: Summon 4 small crows, which can fly for 30 ft MS and are loyal to Nevermora and deal a 1+Agi Peck.
+   * Summon Spirit Crows: Summon a Humanoid Spirit Servant of Nevermora, which can do tasks, and in combat can only attack non-innocent targets with Spook (See Above). Can actively travel between the ethereal and physical realm. Innocent targets cannot see spirit crows unless they want to. 
+   * Binding Crops: Unless the target succeeds a DC 15+(Cha or Int) Reflex save, they are rooted for a round, 25 ft range
+   * Crowstorm: Standard action. Summon a swarm of crows that flies around you in a 15 ft radius for 5 turns, enemies beginning their turn in that radius must succeed in a DC 20 Reflex save or they take 2d6 P
+   * Behind You: Standard. Your body evaporates into a swarm of crows as you teleport behind the target. If the target fails a DC 15+Int Will Save, they are paralyzed for 2 rounds and their fear level increases by 2. 
+   * Ethereal travel: Use the Grimoire to travel completely between the ethereal realm and the physical realm as an immediate action (only useable on your turn)
+   * Ethereal form: Passive: Even while in the physical realm, the user of the grimoire is always partially ethereal and takes and deals half physical damage. 
+   * Summon: Shadow Scythe: Swift action to summon a shadowy spirit scythe weapon. 
+Weapons
+Weapons
+	Attack Roll
+	Attack Damage
+	Crit Range/Mod
+	Mods
+	Scythe
+[Night Elven]
+	1d20+Str
+	1d10+Str+Agi S
+	20/x3
+	Reach, Exotic, 2-Handed
+	Battle Scissors [Night Elven]
+	1d20+Str
+	2d10+Str+Agi S
+Or 1d10 +Str+Agi B
+	20/x3
+	2 Handed, Exotic
+	Skull of corruption
+	1d20+Str
+	1d4+Str
+	20x2
+	2 Handed
+	
+
+Inventory
+Items
+	Description
+	Scythe
+	
+
+	Battle Scissors
+	
+
+	12 crops
+	
+
+	10 straw
+	
+
+	5 sticks
+	
+
+	1 cloth
+	
+
+	Skull of Corruption
+	Legendary Demonic Nightmare Staff - 0 Nightmare Fuel
+Staff can be refilled by channeling over a sleeping target, causing them nightmares, granting 1d20+Cha NF
+10 NF- Fear Bolt, 1d10 + Cha
+25 NF - Sleep Spell-DC 20+Cha Will Save
+50 NF - Summon Nightmare
+50 NF -  Enter/Leave Ethereal Realm
+100 NF- Summon Boggart
+100 NF- Mass Sleep Spell-DC 20+Cha Will Save
+200 NF - Become the target’s worst nightmare, gaining all its abilities
+2500 NF- Drive a soul to insanity DC 30+Cha Will Save
+5000 NF- World Sleep Spell-DC 30+Cha Will Save
+	“Grimoire”
+	Read Above
+	Ideas
+Effigy Ideas
+	Description
+	Adaptive Terror
+Requires: Evolving Terror
+	Effigy can now spend exp to gain a racial of a fear he has collected from [Evolving Terror]. The racial he gains is determined by the DM.
+	Prey on the Feared
+	Effigy can cause fear to any who can feel it regardless of origin. Ex: Demons, Angels, Spirits, etc.
+	Automatonophobia
+	Effigy or an Idol of terror can disguise itself as any inanimate object of a size between small and medium. Taking damage or performing an action breaks the disguise.
+	Capgras Delusion
+Requires: Automatonophobia
+	Effigy or an Idol of terror can disguise itself as any beast of a size between small and medium. Taking damage or performing an action the beast couldn’t normally breaks the disguise.
+	Pareidolia
+Requires: Capgras Delusion
+	Effigy or an Idol of terror can disguise itself as any person of a size between small and medium. Taking damage or performing an action the beast couldn’t normally breaks the disguise. 
+	Friend of the Forest
+	Effigy will generally not pursue those who serve nature and Effigy is considered a force of nature when it comes to reputation with those who serve nature.
+	Alluring Light
+	Effigy or an Idol of Terror can cast a light in whatever form they wish as long as the amount of light it produces and the area it covers doesn’t change(Ex: Candle, Lantern, Lightbulb). Enemies who see the light must make a will save or are forced to head towards it, however failing this will save doesn’t necessarily confer any information aside from the obvious, and indeed they may still think it is a safe haven if they believe it to be so. Upon entering the light it disappears, increasing the victim’s fear and disorientating them. Alluring Light can only be cast during The Haunt.
+	Frightening Appearance
+	When a victim sees Effigy for the first time their fear level increases if they fail a DC 15+Cha will save.
+	Horrified Silence
+Requires: Eldritch Appearance
+	When a victim sees Effigy for the first time, they are unable to verbally communicate unless one of these things happens: they make a will save, a full round has passed, Effigy has left, or they run away. Running away increases their fear level.
+	Stunned Horror
+Requires: Horrified Silence
+	Anyone who lays eyes on Effigy is frozen in place and cannot move, or speak unless they make a will save, a full round passes, or Effigy leaves.
+	Child-Like Wonder
+	Effigy already refuses to attack children, and now Effigy will adopt a cute chibi-esque form whenever one sees him to avoid any psychological damage seeing his true form might cause. This gives him a charisma bonus towards children.
+	Protective Possession
+	If an innocent is in danger, Effigy can briefly possess them and use an empowered jumpscare that affects everyone looking at the innocent.
+	Vicarious Effigy
+	Effigy can shroud someone in an illusion that makes them look exactly like itself. The victim is unable to communicate through normal means with anybody. The victim will not realize how they appear until they overcome an intelligence DC. Anybody who is convinced of the victim’s actual identity will immediately be able to see the victim’s true identity.
+	Extinguish Hope
+	The Haunt’s darkness is strong enough to smother unnatural light up to a certain level. This excludes light produced from Alluring Light and other abilities similar to it.
+	Paranoia
+	Effigy can view any location that is within the boundaries of The Haunt. While in use Effigy cannot see in front of it like normal.
+	Writhing Demise
+	Effigy launches quick and unerring tentacles toward a target grappling and dragging them towards Effigy’s waiting maw. If they enter Effigy’s maw they receive 4 levels of fear per turn and blood sacrifice is automatically cast if they would qualify at any point in time. The target is dragged 5 squares per turn and can make a grapple check every time they would be dragged or they can take 4 fears levels to escape. The target must be of a medium or smaller size. The DC is opposed to your grapple roll. The range is 50 ft. Effigy must see the target though there need not be a straight line between it and it’s target. Effigy is considered channeling while this is active and can be canceled at any time. Any target who can see the effects of writhing demise must roll a DC 15+Cha will save or gain a fear level.
+	Twisting Space
+	For the next 5 rounds, Effigy’s haunting is inescapable. 2/day
+	Ethereal Exchange
+	Effigy creates an idol of terror in its place as it escapes to the ethereal realm. The idol immediately begins performing all actions assigned to it. 1/day
+	Heliophobia & Nyctophilia
+	One or more gods has taken a disliking to Effigy, causing sunlight or anything equivalent to it to harm Effigy while it’s in the material realm.
+
+
+Light stuff: Vampires are harmed by the sun, and strong direct light will deal 1d20 TD per turn, in addition to taking a -5 on all rolls and a -4 penalty to strength, agility, endurance, and perception. Indirect light gives a -2 to all rolls, and strength, endurance, agility, and perception take a -3 penalty.
+
+
+Night Stuff: 
+Double movement speed in darkness. 
+While in the haunt and darkness. You may teleport behind a standing object or become immediately ethereal when entering stealth. 
+	Terror Strikes
+	Whenever Effigy hits someone with a melee/ranged attack, they gain a fear level if they fail a DC 15 will save.
+	Mental Backlash
+	If an enemy would be unable to accrue levels of fear, they instead take 1d4 mental damage.
+	Ephemeral Limb
+	Can manifest an extra limb at will to aid you.
+	Mental Shadow
+	While in the ethereal realm, effigy can possess the body of a living creature. While doing this, effigy cannot control the actions of said creature but can effect things around them. Unless the creature has knowledge of Effigy’s possession they cannot resist. A knowing creature can resist with a DC 20+Int Will Save. While in possession, effigy can only take possession type actions. Manually entering and leaving possession is a standard action. You may choose to exit possession in the physical plane. 
+	Mental Nightmares 
+Requires: Mental Shadow
+	Effigy can choose to create hallucinations in the possessed mind, augmenting what the target already sees. 
+	Fear Amplification
+Requires: Mental Shadow
+	While effigy is possessing a target’s mind, they gain an extra fear stack when their fear level is increased.
+	Eldritch Tentacles
+Requires: Mental Shadow
+	While possessing a target, effigy can produce shadow eldritch tentacles, to pull the target’s body and objects around it. Can be used creatively or to latch onto terrain and increase movement, or to grapple nearby targets. 
+	Crucify
+	Summon a scarecrow stand out of the ground and impale the target on it for 1d4 P, turning them into a living scarecrow and immobilizing them preventing them from taking actions, if they fail a DC 15+Cha Reflex save. If an enemy is within 15 ft of them while immobilized, they must pass a DC 15+Cha Will Save or they increase fear level. Once ensnared the target must pass a DC 20 fortitude save to escape. 
+	Bleed Out
+Requires: Crucify
+	Crucified targets have a stack of bleed while ensnared
+	Forest Offering
+Requires: Crucify
+	Nearby animals are forced to attack crucified targets
+	Crows Crows Crows
+	Summon three allied crows to aid in the fight. Religious ability
+	Ethereal Anchor
+	Create an anchor that physical people can touch to transport themselves to the ethereal realm. The anchor has 50 HP, and if it is destroyed physical beings using the anchor are trapped in the ethereal realm and become ghosts. 
+	
+
+F.A.Q
+	Idol of terror
+	Idol of terror will never be able to be created without the required materials and the required materials will never change.
